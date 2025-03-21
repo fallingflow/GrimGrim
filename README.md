@@ -11,7 +11,7 @@ This python project is based on the following feature:
 
 ## Condition of cartoon style
 > The cel-shading process starts with a typical 3D model. Where cel-shading differs from conventional rendering is in its non-photorealistic shading algorithm. Conventional smooth lighting values are calculated for each pixel and then quantized to a small number of discrete shades to create the characteristic "flat look", where the shadows and highlights appear as blocks of color rather than being smoothly mixed in a gradient.
-> _Wikipedia, 'cell shading'_
+> _- Wikipedia, 'cel shading'_
 
 Cartoon style generally refers to a way of depicting real-world images as if they were drawn, by simplifying the numerous shades created by natural shading into a limited number of colors and adding outlines that do not exist in reality. Although the term “cartoon rendering” is primarily used in 3D graphics, the concept applies to 2D images as well. However, if the color simplification is overly abstract, it may become difficult to recognize the shape and shading of objects. Similarly, an excessive number of outlines can distort the object’s form. Therefore, a well-converted cartoon-style image should have an appropriate number of color variations and outlines.
 
